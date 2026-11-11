@@ -1,0 +1,23 @@
+google.com/async/folsrch
+! AI Mode button
+google.com##div[jsname="xBNgKe"][role="listitem"]
+
+!!! Desktop
+
+! AI Overview on the top
+google.com##.M8OgIe:has(#Odp5De)
+! People also ask
+google.com##.ULSxyf:has(.cUnQKe)
+! AI Overview in the middle
+google.com##.ULSxyf:has(#dEwkXc)
+! People also search for
+!google.com##.ULSxyf:has(.oIk2Cb)
+! Block AI generation endpoint
+
+!!! Mobile
+! AI Overview on the top
+google.com##.MjjYud:has(#eKIzJc)
+! People also ask
+google.com##.MjjYud:has(div[jsname=bq0EGf])
+! People also search for
+!google.com##.MjjYud:has(.Wt5Tfe)
